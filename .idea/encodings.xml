@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/kaoyan3.1.0.apk" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/baseView/baseView.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/businessView/loginView.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/common/common_func.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/common/desired_caps.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/config/kyb_caps.yaml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/config/log.conf" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

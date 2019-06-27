@@ -1,0 +1,56 @@
+2019-06-27 09:42:40,195 desired_caps.py[line:24] INFO start app....
+2019-06-27 09:46:31,900 desired_caps.py[line:24] INFO start app....
+2019-06-27 10:13:53,641 desired_caps.py[line:25] INFO start app....
+2019-06-27 10:14:07,342 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 10:14:08,073 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 10:14:08,540 common_func.py[line:47] INFO swipeLeft
+2019-06-27 10:18:55,719 desired_caps.py[line:25] INFO start app....
+2019-06-27 10:19:08,457 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 10:19:09,109 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 10:19:09,564 common_func.py[line:47] INFO swipeLeft
+2019-06-27 10:20:43,251 desired_caps.py[line:25] INFO start app....
+2019-06-27 10:20:56,676 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 10:20:57,401 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 10:20:57,860 common_func.py[line:47] INFO swipeLeft
+2019-06-27 10:22:50,429 desired_caps.py[line:25] INFO start app....
+2019-06-27 10:23:02,467 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 10:23:03,137 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 10:23:03,576 common_func.py[line:47] INFO swipeLeft
+2019-06-27 10:25:21,344 desired_caps.py[line:25] INFO start app....
+2019-06-27 10:25:32,474 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 10:25:33,113 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 10:25:33,519 common_func.py[line:47] INFO swipeLeft
+2019-06-27 10:26:25,507 desired_caps.py[line:25] INFO start app....
+2019-06-27 10:26:38,869 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 10:26:39,638 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 10:26:40,079 common_func.py[line:47] INFO swipeLeft
+2019-06-27 10:27:05,878 desired_caps.py[line:25] INFO start app....
+2019-06-27 10:27:20,662 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 10:27:21,395 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 10:27:21,887 common_func.py[line:47] INFO swipeLeft
+2019-06-27 10:27:22,465 common_func.py[line:61] INFO get screenshot
+2019-06-27 10:28:13,616 desired_caps.py[line:25] INFO start app....
+2019-06-27 10:28:28,761 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 10:28:29,220 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 10:28:30,281 common_func.py[line:47] INFO swipeLeft
+2019-06-27 10:28:30,853 common_func.py[line:61] INFO get screenshot
+2019-06-27 10:29:45,474 desired_caps.py[line:25] INFO start app....
+2019-06-27 10:29:55,014 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 10:29:55,824 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 10:29:56,224 common_func.py[line:47] INFO swipeLeft
+2019-06-27 10:29:56,767 common_func.py[line:61] INFO get screenshot
+2019-06-27 10:33:31,545 desired_caps.py[line:25] INFO start app....
+2019-06-27 10:33:43,896 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 10:33:44,651 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 10:33:45,058 common_func.py[line:47] INFO swipeLeft
+2019-06-27 10:33:45,617 common_func.py[line:62] INFO get screenshot
+2019-06-27 10:34:30,961 desired_caps.py[line:25] INFO start app....
+2019-06-27 10:34:47,273 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 10:34:47,911 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 10:34:48,462 common_func.py[line:47] INFO swipeLeft
+2019-06-27 10:34:48,986 common_func.py[line:62] INFO get screenshot
+2019-06-27 10:35:49,833 desired_caps.py[line:25] INFO start app....
+2019-06-27 10:36:01,627 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 10:36:02,284 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 10:36:02,687 common_func.py[line:47] INFO swipeLeft
+2019-06-27 10:36:03,237 common_func.py[line:62] INFO get screenshot

@@ -1,0 +1,17 @@
+platformName: Android
+platformVersion: 5.1.1
+deviceName: 127.0.0.1:62001
+#deviceName: 127.0.0.1:21503
+#mx4 real device
+#platformVersion: 5.1
+#udid: 750BBKL22GDN
+#deviceName: MX4
+appname: kaoyan3.1.0.apk
+noReset: False
+automationName: uiautomator2
+unicodeKeyboard: True
+resetKeyboard: True
+appPackage: com.tal.kaoyan
+appActivity: com.tal.kaoyan.ui.activity.SplashActivity
+ip: 127.0.0.1
+port: 4723

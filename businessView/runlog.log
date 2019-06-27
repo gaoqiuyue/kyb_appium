@@ -1,0 +1,556 @@
+2019-06-27 11:11:28,619 desired_caps.py[line:25] INFO start app....
+2019-06-27 11:11:38,626 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 11:11:39,218 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 11:11:39,643 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 11:11:40,261 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 11:11:40,587 loginView.py[line:25] INFO ======login========
+2019-06-27 11:11:40,587 loginView.py[line:26] INFO input usernamesusugao
+2019-06-27 11:11:46,868 loginView.py[line:29] INFO input passwordgao123456
+2019-06-27 11:11:52,178 loginView.py[line:32] INFO click loginBtn
+2019-06-27 11:11:52,836 loginView.py[line:34] INFO ========login finished=========
+2019-06-27 11:14:31,908 desired_caps.py[line:25] INFO start app....
+2019-06-27 11:14:41,559 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 11:14:42,245 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 11:14:42,658 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 11:14:43,144 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 11:14:43,502 loginView.py[line:25] INFO ======login========
+2019-06-27 11:14:43,503 loginView.py[line:26] INFO input usernamesusugao
+2019-06-27 11:14:49,008 loginView.py[line:29] INFO input passwordgao123456
+2019-06-27 11:14:54,558 loginView.py[line:32] INFO click loginBtn
+2019-06-27 11:14:55,247 loginView.py[line:34] INFO ========login finished=========
+2019-06-27 11:15:07,699 loginView.py[line:41] INFO login failed
+2019-06-27 11:15:07,699 common_func.py[line:62] INFO get screenshot
+2019-06-27 11:17:24,572 desired_caps.py[line:26] INFO start app....
+2019-06-27 11:18:07,408 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 11:18:08,174 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 11:18:08,211 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 11:18:09,050 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 11:18:09,080 loginView.py[line:25] INFO ======login========
+2019-06-27 11:18:09,080 loginView.py[line:26] INFO input usernamesusugao
+2019-06-27 11:18:11,276 loginView.py[line:29] INFO input passwordgao123456
+2019-06-27 11:18:11,830 loginView.py[line:32] INFO click loginBtn
+2019-06-27 11:18:12,383 loginView.py[line:34] INFO ========login finished=========
+2019-06-27 11:18:24,968 loginView.py[line:41] INFO login failed
+2019-06-27 11:18:24,968 common_func.py[line:62] INFO get screenshot
+2019-06-27 11:19:09,047 desired_caps.py[line:26] INFO start app....
+2019-06-27 11:22:24,369 desired_caps.py[line:26] INFO start app....
+2019-06-27 11:22:47,635 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 11:22:48,381 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 11:22:48,419 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 11:22:49,248 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 11:22:49,280 loginView.py[line:26] INFO ======login========
+2019-06-27 11:22:49,281 loginView.py[line:27] INFO input usernamesusugao
+2019-06-27 11:22:50,871 loginView.py[line:30] INFO input passwordgao123456
+2019-06-27 11:22:51,437 loginView.py[line:33] INFO click loginBtn
+2019-06-27 11:22:54,497 loginView.py[line:35] INFO ========login finished=========
+2019-06-27 11:22:54,499 common_func.py[line:67] INFO =======check_market_ad=============
+2019-06-27 11:22:55,443 common_func.py[line:73] INFO close market ad
+2019-06-27 11:22:55,481 loginView.py[line:38] INFO ====check_account_alert======
+2019-06-27 11:23:11,744 loginView.py[line:54] INFO login failed
+2019-06-27 11:23:11,744 common_func.py[line:62] INFO get screenshot
+2019-06-27 11:34:32,467 desired_caps.py[line:26] INFO start app....
+2019-06-27 11:34:52,009 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 11:34:52,631 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 11:34:52,664 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 11:34:53,528 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 11:34:53,557 loginView.py[line:26] INFO ======login========
+2019-06-27 11:34:53,557 loginView.py[line:27] INFO input usernamesusugao
+2019-06-27 11:34:55,255 loginView.py[line:30] INFO input passwordgao123456
+2019-06-27 11:34:55,859 loginView.py[line:33] INFO click loginBtn
+2019-06-27 11:34:56,415 loginView.py[line:35] INFO ========login finished=========
+2019-06-27 11:34:56,416 loginView.py[line:47] INFO ==========check_loginStatus===========
+2019-06-27 11:34:56,417 common_func.py[line:67] INFO =======check_market_ad=============
+2019-06-27 11:34:59,854 common_func.py[line:73] INFO close market ad
+2019-06-27 11:34:59,886 loginView.py[line:38] INFO ====check_account_alert======
+2019-06-27 11:35:08,689 loginView.py[line:44] INFO click commitBtn
+2019-06-27 11:35:17,937 loginView.py[line:55] INFO login failed
+2019-06-27 11:35:17,937 common_func.py[line:62] INFO get screenshot
+2019-06-27 11:36:27,120 desired_caps.py[line:26] INFO start app....
+2019-06-27 11:36:44,514 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 11:36:45,094 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 11:36:45,875 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 11:36:45,910 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 11:36:45,945 loginView.py[line:26] INFO ======login========
+2019-06-27 11:36:45,945 loginView.py[line:27] INFO input usernamesusugao
+2019-06-27 11:36:48,006 loginView.py[line:30] INFO input passwordgao123456
+2019-06-27 11:36:48,550 loginView.py[line:33] INFO click loginBtn
+2019-06-27 11:36:49,092 loginView.py[line:35] INFO ========login finished=========
+2019-06-27 11:36:49,092 loginView.py[line:47] INFO ==========check_loginStatus===========
+2019-06-27 11:36:49,092 common_func.py[line:67] INFO =======check_market_ad=============
+2019-06-27 11:36:52,972 common_func.py[line:73] INFO close market ad
+2019-06-27 11:36:53,002 loginView.py[line:38] INFO ====check_account_alert======
+2019-06-27 11:37:10,068 loginView.py[line:55] INFO login failed
+2019-06-27 11:37:10,068 common_func.py[line:62] INFO get screenshot
+2019-06-27 11:38:05,517 desired_caps.py[line:26] INFO start app....
+2019-06-27 11:38:22,156 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 11:38:22,734 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 11:38:22,761 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 11:38:23,523 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 11:38:23,550 loginView.py[line:26] INFO ======login========
+2019-06-27 11:38:23,550 loginView.py[line:27] INFO input usernamesusugao
+2019-06-27 11:38:25,661 loginView.py[line:30] INFO input passwordgao123456
+2019-06-27 11:38:26,229 loginView.py[line:33] INFO click loginBtn
+2019-06-27 11:38:29,561 loginView.py[line:35] INFO ========login finished=========
+2019-06-27 11:38:29,561 loginView.py[line:47] INFO ==========check_loginStatus===========
+2019-06-27 11:38:29,562 common_func.py[line:67] INFO =======check_market_ad=============
+2019-06-27 11:38:29,863 common_func.py[line:73] INFO close market ad
+2019-06-27 11:38:29,896 loginView.py[line:38] INFO ====check_account_alert======
+2019-06-27 11:38:46,568 loginView.py[line:55] INFO login failed
+2019-06-27 11:38:46,568 common_func.py[line:62] INFO get screenshot
+2019-06-27 11:39:16,736 desired_caps.py[line:26] INFO start app....
+2019-06-27 11:39:34,427 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 11:39:35,033 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 11:40:05,062 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 11:40:05,174 common_func.py[line:37] INFO no skipBtn
+2019-06-27 11:40:05,175 loginView.py[line:28] INFO ======login========
+2019-06-27 11:40:05,175 loginView.py[line:29] INFO input usernamesusugao
+2019-06-27 11:40:38,416 desired_caps.py[line:26] INFO start app....
+2019-06-27 11:40:58,483 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 11:40:59,091 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 11:40:59,125 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 11:40:59,942 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 11:40:59,972 loginView.py[line:27] INFO ======login========
+2019-06-27 11:40:59,972 loginView.py[line:28] INFO input usernamesusugao
+2019-06-27 11:41:02,144 loginView.py[line:31] INFO input passwordgao123456
+2019-06-27 11:41:02,728 loginView.py[line:34] INFO click loginBtn
+2019-06-27 11:41:05,998 loginView.py[line:36] INFO ========login finished=========
+2019-06-27 11:41:05,998 loginView.py[line:48] INFO ==========check_loginStatus===========
+2019-06-27 11:41:05,999 common_func.py[line:67] INFO =======check_market_ad=============
+2019-06-27 11:41:06,318 common_func.py[line:73] INFO close market ad
+2019-06-27 11:41:36,357 loginView.py[line:39] INFO ====check_account_alert======
+2019-06-27 11:41:36,391 loginView.py[line:45] INFO click commitBtn
+2019-06-27 11:41:45,757 loginView.py[line:57] INFO login failed
+2019-06-27 11:41:45,757 common_func.py[line:62] INFO get screenshot
+2019-06-27 11:43:27,723 desired_caps.py[line:26] INFO start app....
+2019-06-27 11:43:45,464 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 11:43:46,088 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 11:43:46,898 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 11:43:46,934 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 11:43:46,972 loginView.py[line:27] INFO ======login========
+2019-06-27 11:43:46,972 loginView.py[line:28] INFO input usernamesusugao
+2019-06-27 11:43:49,104 loginView.py[line:31] INFO input passwordgao123456
+2019-06-27 11:43:49,680 loginView.py[line:34] INFO click loginBtn
+2019-06-27 11:43:50,205 loginView.py[line:36] INFO ========login finished=========
+2019-06-27 11:43:50,206 loginView.py[line:48] INFO ==========check_loginStatus===========
+2019-06-27 11:43:50,206 common_func.py[line:67] INFO =======check_market_ad=============
+2019-06-27 11:43:53,937 common_func.py[line:73] INFO close market ad
+2019-06-27 11:44:24,470 loginView.py[line:39] INFO ====check_account_alert======
+2019-06-27 11:44:24,494 loginView.py[line:45] INFO click commitBtn
+2019-06-27 11:44:25,755 loginView.py[line:61] INFO login success
+2019-06-27 11:47:05,663 desired_caps.py[line:26] INFO start app....
+2019-06-27 11:47:24,007 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 11:47:24,634 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 11:47:24,665 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 11:47:25,434 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 11:47:25,463 loginView.py[line:28] INFO ======login========
+2019-06-27 11:47:25,463 loginView.py[line:29] INFO input usernamesusugao
+2019-06-27 11:47:27,542 loginView.py[line:32] INFO input passwordgao123456
+2019-06-27 11:47:28,104 loginView.py[line:35] INFO click loginBtn
+2019-06-27 11:47:31,596 loginView.py[line:37] INFO ========login finished=========
+2019-06-27 11:47:31,596 loginView.py[line:51] INFO ==========check_loginStatus===========
+2019-06-27 11:47:31,596 common_func.py[line:67] INFO =======check_market_ad=============
+2019-06-27 11:47:31,885 common_func.py[line:73] INFO close market ad
+2019-06-27 11:48:01,924 loginView.py[line:40] INFO ====check_account_alert======
+2019-06-27 11:48:03,608 loginView.py[line:64] INFO login success
+2019-06-27 11:49:02,563 desired_caps.py[line:26] INFO start app....
+2019-06-27 11:49:24,129 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 11:49:24,808 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 11:49:24,849 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 11:49:25,710 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 11:49:25,740 loginView.py[line:28] INFO ======login========
+2019-06-27 11:49:25,741 loginView.py[line:29] INFO input usernamesusugao
+2019-06-27 11:49:27,848 loginView.py[line:32] INFO input passwordgao123456
+2019-06-27 11:49:28,430 loginView.py[line:35] INFO click loginBtn
+2019-06-27 11:49:28,974 loginView.py[line:37] INFO ========login finished=========
+2019-06-27 11:49:28,974 loginView.py[line:51] INFO ==========check_loginStatus===========
+2019-06-27 11:49:28,974 common_func.py[line:67] INFO =======check_market_ad=============
+2019-06-27 11:49:32,699 common_func.py[line:73] INFO close market ad
+2019-06-27 11:49:32,729 loginView.py[line:40] INFO ====check_account_alert======
+2019-06-27 11:49:44,381 loginView.py[line:64] INFO login success
+2019-06-27 11:53:38,647 desired_caps.py[line:26] INFO start app....
+2019-06-27 11:53:59,243 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 11:53:59,978 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 11:54:00,030 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 11:54:00,985 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 11:54:01,017 loginView.py[line:28] INFO ======login========
+2019-06-27 11:54:01,018 loginView.py[line:29] INFO input usernamesusugao
+2019-06-27 11:54:03,107 loginView.py[line:32] INFO input passwordgao123456
+2019-06-27 11:54:03,683 loginView.py[line:35] INFO click loginBtn
+2019-06-27 11:54:04,242 loginView.py[line:37] INFO ========login finished=========
+2019-06-27 11:54:04,243 loginView.py[line:55] INFO ==========check_loginStatus===========
+2019-06-27 11:54:04,243 common_func.py[line:67] INFO =======check_market_ad=============
+2019-06-27 11:54:07,936 common_func.py[line:73] INFO close market ad
+2019-06-27 11:54:07,983 loginView.py[line:40] INFO ====check_account_alert======
+2019-06-27 11:56:02,963 desired_caps.py[line:26] INFO start app....
+2019-06-27 11:56:22,776 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 11:56:23,571 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 11:56:23,601 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 11:56:24,435 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 11:56:24,470 loginView.py[line:28] INFO ======login========
+2019-06-27 11:56:24,471 loginView.py[line:29] INFO input usernamesusugao
+2019-06-27 11:56:26,575 loginView.py[line:32] INFO input passwordgao123456
+2019-06-27 11:56:27,143 loginView.py[line:35] INFO click loginBtn
+2019-06-27 11:56:27,697 loginView.py[line:37] INFO ========login finished=========
+2019-06-27 11:56:27,698 loginView.py[line:57] INFO ==========check_loginStatus===========
+2019-06-27 11:56:27,698 common_func.py[line:67] INFO =======check_market_ad=============
+2019-06-27 11:56:31,272 common_func.py[line:73] INFO close market ad
+2019-06-27 11:56:31,310 loginView.py[line:40] INFO ====check_account_alert======
+2019-06-27 11:56:42,435 loginView.py[line:70] INFO login success
+2019-06-27 15:16:19,325 desired_caps.py[line:26] INFO start app....
+2019-06-27 15:17:15,587 desired_caps.py[line:26] INFO start app....
+2019-06-27 15:17:34,503 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 15:17:35,120 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 15:17:35,150 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 15:17:35,999 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 15:17:36,028 registerView.py[line:39] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:17:54,486 desired_caps.py[line:26] INFO start app....
+2019-06-27 15:18:12,743 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 15:18:13,362 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 15:18:13,388 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 15:18:14,144 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 15:18:14,170 registerView.py[line:39] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:18:57,270 desired_caps.py[line:26] INFO start app....
+2019-06-27 15:19:14,175 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 15:19:14,765 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 15:19:14,798 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 15:19:15,599 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 15:19:15,623 registerView.py[line:39] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:19:17,074 registerView.py[line:42] INFO set userheader
+2019-06-27 15:21:14,963 desired_caps.py[line:26] INFO start app....
+2019-06-27 15:21:33,065 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 15:21:33,723 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 15:21:33,754 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 15:21:34,528 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 15:21:34,555 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:21:36,032 registerView.py[line:44] INFO set userheader
+2019-06-27 15:21:37,010 registerView.py[line:46] INFO =======loading images==========
+2019-06-27 15:23:32,839 desired_caps.py[line:26] INFO start app....
+2019-06-27 15:23:49,617 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 15:23:50,182 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 15:23:50,208 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 15:23:51,010 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 15:23:51,038 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:23:52,534 registerView.py[line:44] INFO set userheader
+2019-06-27 15:23:54,105 registerView.py[line:46] INFO =======loading images==========
+2019-06-27 15:25:07,675 desired_caps.py[line:26] INFO start app....
+2019-06-27 15:25:26,107 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 15:25:26,751 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 15:25:26,779 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 15:25:27,538 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 15:25:27,564 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:25:29,090 registerView.py[line:44] INFO set userheader
+2019-06-27 15:25:30,667 registerView.py[line:46] INFO =======loading images==========
+2019-06-27 15:25:37,882 registerView.py[line:51] INFO register_usename issusugqy6853
+2019-06-27 15:25:40,214 registerView.py[line:53] INFO register_password isgao3732
+2019-06-27 15:25:40,780 registerView.py[line:55] INFO register_email is51zxw3455@163.com
+2019-06-27 15:25:41,841 registerView.py[line:57] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:26:32,952 desired_caps.py[line:26] INFO start app....
+2019-06-27 15:26:49,743 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 15:26:50,333 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 15:26:50,364 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 15:26:51,684 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 15:26:51,711 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:26:53,268 registerView.py[line:44] INFO set userheader
+2019-06-27 15:26:56,250 registerView.py[line:46] INFO =======loading images==========
+2019-06-27 15:27:02,914 registerView.py[line:51] INFO register_usename issusugqy7241
+2019-06-27 15:27:05,465 registerView.py[line:53] INFO register_password isgao4570
+2019-06-27 15:27:06,045 registerView.py[line:55] INFO register_email is51zxw8953@163.com
+2019-06-27 15:27:07,151 registerView.py[line:57] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:27:15,913 registerView.py[line:63] INFO register failed
+2019-06-27 15:27:15,914 common_func.py[line:62] INFO get screenshot
+2019-06-27 15:28:10,563 desired_caps.py[line:26] INFO start app....
+2019-06-27 15:28:27,418 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 15:28:28,038 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 15:28:28,064 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 15:28:28,890 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 15:28:28,926 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:28:30,456 registerView.py[line:44] INFO set userheader
+2019-06-27 15:28:32,069 registerView.py[line:46] INFO =======loading images==========
+2019-06-27 15:28:39,178 registerView.py[line:51] INFO register_usename is susugqy5619
+2019-06-27 15:28:41,523 registerView.py[line:53] INFO register_password is gao1234561488
+2019-06-27 15:28:42,115 registerView.py[line:55] INFO register_email is 51zxw32212830@163.com
+2019-06-27 15:28:43,185 registerView.py[line:57] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:28:52,028 registerView.py[line:63] INFO register failed
+2019-06-27 15:28:52,028 common_func.py[line:62] INFO get screenshot
+2019-06-27 15:29:30,724 desired_caps.py[line:26] INFO start app....
+2019-06-27 15:29:49,123 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 15:29:49,797 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 15:29:49,845 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 15:29:50,647 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 15:29:50,674 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:29:52,293 registerView.py[line:44] INFO set userheader
+2019-06-27 15:30:00,800 desired_caps.py[line:26] INFO start app....
+2019-06-27 15:30:20,193 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 15:30:21,050 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 15:30:21,078 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 15:30:21,908 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 15:30:21,936 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:30:23,497 registerView.py[line:44] INFO set userheader
+2019-06-27 15:30:25,140 registerView.py[line:46] INFO =======loading images==========
+2019-06-27 15:30:32,731 registerView.py[line:51] INFO register_usename is susugqy9317
+2019-06-27 15:30:35,265 registerView.py[line:53] INFO register_password is gao1234561935
+2019-06-27 15:30:36,117 registerView.py[line:55] INFO register_email is 51zxw32214486@163.com
+2019-06-27 15:30:37,176 registerView.py[line:57] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:30:45,821 registerView.py[line:63] INFO register failed
+2019-06-27 15:30:45,822 common_func.py[line:62] INFO get screenshot
+2019-06-27 15:32:21,200 desired_caps.py[line:26] INFO start app....
+2019-06-27 15:32:41,785 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 15:32:42,379 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 15:32:42,413 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 15:32:43,269 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 15:32:43,313 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:32:45,117 registerView.py[line:44] INFO set userheader
+2019-06-27 15:32:46,827 registerView.py[line:46] INFO =======loading images==========
+2019-06-27 15:32:55,133 registerView.py[line:51] INFO register_usename is susugqy2082
+2019-06-27 15:33:02,480 registerView.py[line:54] INFO register_password is gao1234565622
+2019-06-27 15:33:44,396 desired_caps.py[line:26] INFO start app....
+2019-06-27 15:34:08,096 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 15:34:08,797 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 15:34:08,839 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 15:34:10,245 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 15:34:10,297 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:34:11,928 registerView.py[line:44] INFO set userheader
+2019-06-27 15:34:13,624 registerView.py[line:46] INFO =======loading images==========
+2019-06-27 15:34:21,943 registerView.py[line:51] INFO register_usename is susugqy8557
+2019-06-27 15:34:26,569 registerView.py[line:54] INFO register_password is gao1234562336
+2019-06-27 15:34:28,681 registerView.py[line:57] INFO register_email is 51zxw32217684@163.com
+2019-06-27 15:34:31,289 registerView.py[line:60] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:34:39,613 registerView.py[line:66] INFO register failed
+2019-06-27 15:34:39,614 common_func.py[line:62] INFO get screenshot
+2019-06-27 15:36:39,442 desired_caps.py[line:26] INFO start app....
+2019-06-27 15:36:57,668 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 15:36:58,496 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 15:36:58,530 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 15:36:59,315 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 15:36:59,346 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:37:00,953 registerView.py[line:44] INFO set userheader
+2019-06-27 15:37:02,624 registerView.py[line:46] INFO =======loading images==========
+2019-06-27 15:37:10,535 registerView.py[line:51] INFO register_usename is susugao3443
+2019-06-27 15:37:14,984 registerView.py[line:54] INFO register_password is gaogao123456
+2019-06-27 15:37:17,710 registerView.py[line:57] INFO register_email is gaogao3221@163.com
+2019-06-27 15:37:20,366 registerView.py[line:60] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:37:28,726 registerView.py[line:66] INFO register failed
+2019-06-27 15:37:28,726 common_func.py[line:62] INFO get screenshot
+2019-06-27 15:38:21,397 desired_caps.py[line:26] INFO start app....
+2019-06-27 15:38:39,629 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 15:38:40,269 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 15:38:40,297 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 15:38:41,090 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 15:38:41,120 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:38:42,147 registerView.py[line:44] INFO set userheader
+2019-06-27 15:38:43,854 registerView.py[line:46] INFO =======loading images==========
+2019-06-27 15:38:51,152 registerView.py[line:51] INFO register_usename is susugao3443
+2019-06-27 15:38:55,599 registerView.py[line:54] INFO register_password is gaogao123456
+2019-06-27 15:38:57,699 registerView.py[line:57] INFO register_email is gaogao3221@163.com
+2019-06-27 15:39:00,840 registerView.py[line:60] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:39:09,214 registerView.py[line:66] INFO register failed
+2019-06-27 15:39:09,215 common_func.py[line:62] INFO get screenshot
+2019-06-27 15:44:24,491 desired_caps.py[line:26] INFO start app....
+2019-06-27 15:44:42,660 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 15:44:43,315 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 15:44:43,345 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 15:44:44,172 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 15:44:44,196 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:44:45,763 registerView.py[line:44] INFO set userheader
+2019-06-27 15:44:47,398 registerView.py[line:46] INFO =======loading images==========
+2019-06-27 15:44:54,590 registerView.py[line:51] INFO register_usename is susugao3443
+2019-06-27 15:44:58,849 registerView.py[line:54] INFO register_password is gaogao123456
+2019-06-27 15:45:00,949 registerView.py[line:57] INFO register_email is gaogao3221@163.com
+2019-06-27 15:45:03,548 registerView.py[line:60] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:45:11,992 registerView.py[line:66] INFO register failed
+2019-06-27 15:45:11,993 common_func.py[line:62] INFO get screenshot
+2019-06-27 15:45:16,721 desired_caps.py[line:26] INFO start app....
+2019-06-27 15:45:36,888 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 15:45:37,579 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 15:45:37,677 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 15:45:38,455 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 15:45:38,483 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:45:40,035 registerView.py[line:44] INFO set userheader
+2019-06-27 15:45:41,681 registerView.py[line:46] INFO =======loading images==========
+2019-06-27 15:45:48,838 registerView.py[line:51] INFO register_usename is qyy2018FLY1410
+2019-06-27 15:45:53,172 registerView.py[line:54] INFO register_password is qyy6626
+2019-06-27 15:45:55,338 registerView.py[line:57] INFO register_email is 51qyy8591@163.com
+2019-06-27 15:45:57,935 registerView.py[line:60] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:46:06,574 registerView.py[line:66] INFO register failed
+2019-06-27 15:46:06,574 common_func.py[line:62] INFO get screenshot
+2019-06-27 15:48:26,034 desired_caps.py[line:26] INFO start app....
+2019-06-27 15:48:43,910 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 15:48:44,567 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 15:48:44,592 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 15:48:45,401 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 15:48:45,436 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:48:47,092 registerView.py[line:44] INFO set userheader
+2019-06-27 15:48:48,798 registerView.py[line:46] INFO =======loading images==========
+2019-06-27 15:48:56,171 registerView.py[line:51] INFO register_usename is qyy20182702
+2019-06-27 15:49:00,961 registerView.py[line:54] INFO register_password is qiuyue8656
+2019-06-27 15:49:03,100 registerView.py[line:57] INFO register_email is 3162324029@qq.com
+2019-06-27 15:49:05,716 registerView.py[line:60] INFO µã»÷×¢²á°´Å¥
+2019-06-27 15:49:14,254 registerView.py[line:66] INFO register failed
+2019-06-27 15:49:14,255 common_func.py[line:62] INFO get screenshot
+2019-06-27 16:15:46,000 desired_caps.py[line:26] INFO start app....
+2019-06-27 16:16:05,616 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 16:16:06,341 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 16:16:06,378 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 16:16:07,169 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 16:16:07,197 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 16:16:08,792 registerView.py[line:45] INFO register_usename is qyy20182475
+2019-06-27 16:16:12,986 registerView.py[line:48] INFO register_password is qiuyue3320
+2019-06-27 16:16:15,087 registerView.py[line:51] INFO register_email is 3162325621@qq.com
+2019-06-27 16:16:17,687 registerView.py[line:55] INFO set userheader
+2019-06-27 16:16:17,765 registerView.py[line:57] INFO =======loading images==========
+2019-06-27 16:16:25,608 registerView.py[line:61] INFO µã»÷×¢²á°´Å¥
+2019-06-27 16:16:35,797 registerView.py[line:67] INFO register failed
+2019-06-27 16:16:35,797 common_func.py[line:62] INFO get screenshot
+2019-06-27 16:31:09,841 desired_caps.py[line:26] INFO start app....
+2019-06-27 16:32:02,371 desired_caps.py[line:26] INFO start app....
+2019-06-27 16:32:26,566 desired_caps.py[line:26] INFO start app....
+2019-06-27 16:33:14,342 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 16:33:14,932 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 16:33:14,977 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 16:33:15,884 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 16:33:15,929 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 16:33:16,913 registerView.py[line:45] INFO register_usename is qyy20187323
+2019-06-27 16:33:20,466 registerView.py[line:48] INFO register_password is qiuyue4335
+2019-06-27 16:33:22,563 registerView.py[line:51] INFO register_email is 3162322468@qq.com
+2019-06-27 16:33:25,142 registerView.py[line:55] INFO set userheader
+2019-06-27 16:33:25,243 registerView.py[line:57] INFO =======loading images==========
+2019-06-27 16:34:08,438 desired_caps.py[line:26] INFO start app....
+2019-06-27 16:34:27,343 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 16:34:28,659 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 16:34:28,696 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 16:34:28,864 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 16:34:29,459 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 16:34:30,414 registerView.py[line:45] INFO register_usename is qyy20184120
+2019-06-27 16:34:33,937 registerView.py[line:48] INFO register_password is qiuyue4601
+2019-06-27 16:34:36,047 registerView.py[line:51] INFO register_email is 3162323441@qq.com
+2019-06-27 16:34:38,664 registerView.py[line:55] INFO set userheader
+2019-06-27 16:34:38,903 registerView.py[line:57] INFO =======loading images==========
+2019-06-27 16:34:42,341 registerView.py[line:61] INFO µã»÷×¢²á°´Å¥
+2019-06-27 16:34:51,551 registerView.py[line:67] INFO register failed
+2019-06-27 16:34:51,552 common_func.py[line:62] INFO get screenshot
+2019-06-27 16:35:48,267 desired_caps.py[line:26] INFO start app....
+2019-06-27 16:36:05,915 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 16:36:06,537 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 16:36:06,580 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 16:36:06,779 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 16:36:07,365 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 16:36:08,532 registerView.py[line:45] INFO register_usename is susug3221
+2019-06-27 16:36:12,083 registerView.py[line:48] INFO register_password is gao123456
+2019-06-27 16:36:14,166 registerView.py[line:51] INFO register_email is 315442614@qq.com
+2019-06-27 16:36:16,785 registerView.py[line:55] INFO set userheader
+2019-06-27 16:36:16,869 registerView.py[line:57] INFO =======loading images==========
+2019-06-27 16:36:20,451 registerView.py[line:61] INFO µã»÷×¢²á°´Å¥
+2019-06-27 16:36:29,721 registerView.py[line:67] INFO register failed
+2019-06-27 16:36:29,722 common_func.py[line:62] INFO get screenshot
+2019-06-27 16:38:51,031 desired_caps.py[line:26] INFO start app....
+2019-06-27 16:39:08,649 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 16:39:09,235 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 16:39:10,075 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 16:39:10,125 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 16:39:10,161 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 16:39:11,236 registerView.py[line:45] INFO register_usename is sususu123
+2019-06-27 16:39:14,766 registerView.py[line:48] INFO register_password is gao123456
+2019-06-27 16:39:16,868 registerView.py[line:51] INFO register_email is 315442611@qq.com
+2019-06-27 16:39:19,504 registerView.py[line:55] INFO set userheader
+2019-06-27 16:39:19,607 registerView.py[line:57] INFO =======loading images==========
+2019-06-27 16:39:22,994 registerView.py[line:61] INFO µã»÷×¢²á°´Å¥
+2019-06-27 16:39:35,252 registerView.py[line:68] INFO register failed
+2019-06-27 16:39:35,252 common_func.py[line:62] INFO get screenshot
+2019-06-27 16:40:30,407 desired_caps.py[line:26] INFO start app....
+2019-06-27 16:40:47,391 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 16:40:48,064 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 16:40:48,093 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 16:40:48,882 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 16:40:48,913 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 16:40:49,837 registerView.py[line:45] INFO register_usename is qyy20181761
+2019-06-27 16:40:53,124 registerView.py[line:48] INFO register_password is qiuyue1976
+2019-06-27 16:40:55,209 registerView.py[line:51] INFO register_email is 3162322387@qq.com
+2019-06-27 16:40:57,802 registerView.py[line:61] INFO µã»÷×¢²á°´Å¥
+2019-06-27 16:41:09,274 registerView.py[line:68] INFO register failed
+2019-06-27 16:41:09,274 common_func.py[line:62] INFO get screenshot
+2019-06-27 16:45:31,115 desired_caps.py[line:26] INFO start app....
+2019-06-27 16:47:41,248 desired_caps.py[line:26] INFO start app....
+2019-06-27 16:48:42,389 desired_caps.py[line:26] INFO start app....
+2019-06-27 16:51:00,469 desired_caps.py[line:26] INFO start app....
+2019-06-27 16:51:23,663 desired_caps.py[line:26] INFO start app....
+2019-06-27 16:52:42,222 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 16:52:50,394 common_func.py[line:27] INFO no cancelBtn
+2019-06-27 16:52:50,395 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 16:52:50,449 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 16:52:51,414 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 16:52:52,247 registerView.py[line:45] INFO register_usename is qyy20185893
+2019-06-27 16:54:33,312 desired_caps.py[line:26] INFO start app....
+2019-06-27 16:54:50,443 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 16:54:51,269 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 16:54:52,079 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 16:54:52,140 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 16:54:52,195 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 16:54:53,122 registerView.py[line:45] INFO register_usename is qyy20185836
+2019-06-27 16:55:30,998 registerView.py[line:48] INFO register_password is qiuyue8961
+2019-06-27 16:55:48,251 registerView.py[line:51] INFO register_email is 3162328165@qq.com
+2019-06-27 16:56:30,804 registerView.py[line:61] INFO µã»÷×¢²á°´Å¥
+2019-06-27 16:58:23,575 desired_caps.py[line:26] INFO start app....
+2019-06-27 16:58:40,711 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 16:58:41,294 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 16:58:42,096 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 16:58:42,157 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 16:58:42,199 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 16:58:43,154 registerView.py[line:45] INFO register_usename is qyy20186317
+2019-06-27 16:59:12,751 registerView.py[line:48] INFO register_password is qiuyue2669
+2019-06-27 16:59:45,240 registerView.py[line:51] INFO register_email is 3162326810@qq.com
+2019-06-27 17:04:46,171 desired_caps.py[line:26] INFO start app....
+2019-06-27 17:05:07,764 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 17:05:08,404 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 17:05:09,176 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 17:05:09,223 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 17:05:09,313 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 17:05:10,277 registerView.py[line:45] INFO register_usename is qyy20183257
+2019-06-27 17:05:13,821 registerView.py[line:48] INFO register_password is qiuyue6527
+2019-06-27 17:05:15,924 registerView.py[line:51] INFO register_email is 3162324255@qq.com
+2019-06-27 17:05:18,527 registerView.py[line:61] INFO µã»÷×¢²á°´Å¥
+2019-06-27 17:05:26,747 registerView.py[line:68] INFO register failed
+2019-06-27 17:05:26,747 common_func.py[line:62] INFO get screenshot
+2019-06-27 17:34:21,722 desired_caps.py[line:26] INFO start app....
+2019-06-27 17:34:42,658 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 17:34:43,311 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 17:34:44,168 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 17:34:44,213 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 17:34:44,236 registerView.py[line:42] INFO µã»÷×¢²á°´Å¥
+2019-06-27 17:34:45,702 registerView.py[line:46] INFO register_usename is qyy20188082
+2019-06-27 17:34:49,825 registerView.py[line:49] INFO register_password is qiuyue3940
+2019-06-27 17:34:52,058 registerView.py[line:53] INFO register_email is 3162325426@qq.com
+2019-06-27 17:34:54,147 registerView.py[line:64] INFO µã»÷×¢²á°´Å¥
+2019-06-27 17:35:02,742 registerView.py[line:71] INFO register failed
+2019-06-27 17:35:02,742 common_func.py[line:62] INFO get screenshot
+2019-06-27 17:43:47,552 desired_caps.py[line:26] INFO start app....
+2019-06-27 17:44:04,500 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 17:44:05,123 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 17:44:05,900 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 17:44:05,940 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 17:44:05,971 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 17:44:07,436 registerView.py[line:45] INFO register_usename is qyy20181307
+2019-06-27 17:44:11,585 registerView.py[line:48] INFO register_password is qiuyue2151
+2019-06-27 17:44:13,688 registerView.py[line:51] INFO register_email is 316238807@qq.com
+2019-06-27 17:44:16,277 registerView.py[line:61] INFO µã»÷×¢²á°´Å¥
+2019-06-27 17:44:24,425 registerView.py[line:68] INFO register failed
+2019-06-27 17:44:24,425 common_func.py[line:62] INFO get screenshot
+2019-06-27 17:45:22,775 desired_caps.py[line:26] INFO start app....
+2019-06-27 17:45:39,212 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 17:45:39,807 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 17:45:40,564 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 17:45:40,600 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 17:45:40,624 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 17:45:42,034 registerView.py[line:45] INFO register_usename is qyy20183722
+2019-06-27 17:45:46,129 registerView.py[line:48] INFO register_password is qiuyue8822
+2019-06-27 20:10:18,929 desired_caps.py[line:26] INFO start app....
+2019-06-27 20:10:37,139 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-27 20:10:42,770 common_func.py[line:29] INFO click cancelBtn
+2019-06-27 20:10:43,583 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-27 20:10:43,615 common_func.py[line:39] INFO click cancelBtn
+2019-06-27 20:10:43,643 registerView.py[line:41] INFO µã»÷×¢²á°´Å¥
+2019-06-27 20:10:45,148 registerView.py[line:45] INFO register_usename is qyy20188514
+2019-06-27 20:10:49,250 registerView.py[line:48] INFO register_password is qiuyue6724
+2019-06-27 20:10:51,319 registerView.py[line:51] INFO register_email is 316231247@qq.com
+2019-06-27 20:10:53,946 registerView.py[line:61] INFO µã»÷×¢²á°´Å¥
+2019-06-27 20:11:02,281 registerView.py[line:68] INFO register failed
+2019-06-27 20:11:02,281 common_func.py[line:62] INFO get screenshot
