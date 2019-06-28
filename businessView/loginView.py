@@ -39,13 +39,13 @@ class LoginView(Common):
         ##检测是否有用户下线提示
         logging.info('====check_account_alert======')
         try:
-            WebDriverWait(driver, 10).until(lambda x: x.find_element(*self.commitBtn))
+            WebDriverWait(self.driver, 10).until(lambda x: x.find_element(*self.commitBtn))
         except TimeoutException:
             pass
         except NoSuchElementException:
             pass
         else:
-            driver.find_element(*self.commitBtn).click()
+            self.driver.find_element(*self.commitBtn).click()
         # try:
         #     element = self.driver.find_element(*self.commitBtn)
         # except NoSuchElementException:
@@ -68,7 +68,7 @@ class LoginView(Common):
             return False
         else:
             logging.info("login success")
-            l.logout_action()
+            #l.logout_action()
             return True
     def logout_action(self):
         self.driver.find_element(*self.settingBtn).click()

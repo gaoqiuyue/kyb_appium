@@ -80,11 +80,15 @@ class Common(BaseView):
                 if index==line:
                     return row
 
+    # csv_file = '../data/account.csv'
+    # data = get_csv_data(csv_file, 3)
+    # print(data)
+
 
 if __name__ == '__main__':
     driver=appium_desired()
     comm=Common(driver)
-    comm.check_cancelBtn()
-    comm.swipeLeft()
-    comm.getScreenShot("startapp")
+    # comm.check_cancelBtn()
+    # comm.swipeLeft()
+    # comm.getScreenShot("startapp")
     #comm.check_skipBtn()
