@@ -421,3 +421,83 @@
 2019-06-28 14:44:39,172 myunit.py[line:9] INFO ======setUp=========
 2019-06-28 14:44:59,856 myunit.py[line:14] INFO ======tearDown=====
 2019-06-28 14:53:13,486 run.py[line:15] INFO start run testcase...
+2019-06-28 16:58:50,995 run.py[line:20] INFO start run test case...
+2019-06-28 16:58:50,995 myunit.py[line:9] INFO ======setUp=========
+2019-06-28 17:00:25,929 run.py[line:20] INFO start run test case...
+2019-06-28 17:00:25,930 myunit.py[line:9] INFO ======setUp=========
+2019-06-28 17:05:13,707 run.py[line:20] INFO start run test case...
+2019-06-28 17:05:13,707 myunit.py[line:9] INFO ======setUp=========
+2019-06-28 17:09:25,031 run.py[line:20] INFO start run test case...
+2019-06-28 17:09:25,032 myunit.py[line:9] INFO ======setUp=========
+2019-06-28 17:09:32,972 run.py[line:20] INFO start run test case...
+2019-06-28 17:09:32,973 myunit.py[line:9] INFO ======setUp=========
+2019-06-28 17:09:36,271 run.py[line:20] INFO start run test case...
+2019-06-28 17:09:36,272 myunit.py[line:9] INFO ======setUp=========
+2019-06-28 17:09:42,663 run.py[line:20] INFO start run test case...
+2019-06-28 17:09:42,663 myunit.py[line:9] INFO ======setUp=========
+2019-06-28 17:11:46,679 run.py[line:20] INFO start run test case...
+2019-06-28 17:11:46,680 myunit.py[line:9] INFO ======setUp=========
+2019-06-28 17:11:54,574 run.py[line:20] INFO start run test case...
+2019-06-28 17:11:54,574 myunit.py[line:9] INFO ======setUp=========
+2019-06-28 17:13:02,778 run.py[line:20] INFO start run test case...
+2019-06-28 17:13:02,779 myunit.py[line:9] INFO ======setUp=========
+2019-06-28 17:16:08,807 run.py[line:20] INFO start run test case...
+2019-06-28 17:16:08,808 myunit.py[line:9] INFO ======setUp=========
+2019-06-28 17:20:03,807 run.py[line:20] INFO start run test case...
+2019-06-28 17:20:03,808 myunit.py[line:9] INFO ======setUp=========
+2019-06-28 17:20:12,837 run.py[line:20] INFO start run test case...
+2019-06-28 17:20:12,837 myunit.py[line:9] INFO ======setUp=========
+2019-06-28 17:26:10,864 run.py[line:21] INFO start run test case...
+2019-06-28 17:26:17,847 run.py[line:21] INFO start run test case...
+2019-06-28 17:26:17,848 myunit.py[line:9] INFO ======setUp=========
+2019-06-28 17:26:17,853 desired_caps.py[line:26] INFO start app....
+2019-06-28 17:27:29,253 run.py[line:21] INFO start run test case...
+2019-06-28 17:27:29,254 myunit.py[line:9] INFO ======setUp=========
+2019-06-28 17:27:29,257 desired_caps.py[line:26] INFO start app....
+2019-06-28 17:27:53,226 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-28 17:27:53,854 common_func.py[line:29] INFO click cancelBtn
+2019-06-28 17:27:53,914 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-28 17:27:54,692 common_func.py[line:39] INFO click cancelBtn
+2019-06-28 17:27:54,756 loginView.py[line:28] INFO ======login========
+2019-06-28 17:27:54,756 loginView.py[line:29] INFO input usernamesusugao
+2019-06-28 17:27:56,553 loginView.py[line:32] INFO input passwordgao123456
+2019-06-28 17:27:57,145 loginView.py[line:35] INFO click loginBtn
+2019-06-28 17:27:57,718 loginView.py[line:37] INFO ========login finished=========
+2019-06-28 17:27:57,718 loginView.py[line:57] INFO ==========check_loginStatus===========
+2019-06-28 17:27:57,718 common_func.py[line:67] INFO =======check_market_ad=============
+2019-06-28 17:28:00,936 common_func.py[line:73] INFO close market ad
+2019-06-28 17:28:00,998 loginView.py[line:40] INFO ====check_account_alert======
+2019-06-28 17:28:11,633 loginView.py[line:70] INFO login success
+2019-06-28 17:28:11,633 myunit.py[line:14] INFO ======tearDown=====
+2019-06-28 17:28:17,274 myunit.py[line:9] INFO ======setUp=========
+2019-06-28 17:28:17,284 desired_caps.py[line:26] INFO start app....
+2019-06-28 17:28:42,445 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-28 17:28:43,375 common_func.py[line:29] INFO click cancelBtn
+2019-06-28 17:28:43,582 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-28 17:28:43,930 common_func.py[line:39] INFO click cancelBtn
+2019-06-28 17:28:44,514 loginView.py[line:28] INFO ======login========
+2019-06-28 17:28:44,515 loginView.py[line:29] INFO input usernamesusu3221
+2019-06-28 17:28:46,357 loginView.py[line:32] INFO input passwordgao123456
+2019-06-28 17:28:46,979 loginView.py[line:35] INFO click loginBtn
+2019-06-28 17:28:47,581 loginView.py[line:37] INFO ========login finished=========
+2019-06-28 17:28:47,582 loginView.py[line:57] INFO ==========check_loginStatus===========
+2019-06-28 17:28:47,582 common_func.py[line:67] INFO =======check_market_ad=============
+2019-06-28 17:28:56,003 loginView.py[line:40] INFO ====check_account_alert======
+2019-06-28 17:29:17,827 myunit.py[line:14] INFO ======tearDown=====
+2019-06-28 17:29:23,257 myunit.py[line:9] INFO ======setUp=========
+2019-06-28 17:29:23,260 desired_caps.py[line:26] INFO start app....
+2019-06-28 17:29:44,719 common_func.py[line:23] INFO =========check_cancelBtn=======
+2019-06-28 17:29:45,377 common_func.py[line:29] INFO click cancelBtn
+2019-06-28 17:29:45,403 common_func.py[line:33] INFO =========check_skipBtn=======
+2019-06-28 17:29:45,558 common_func.py[line:39] INFO click cancelBtn
+2019-06-28 17:29:46,141 loginView.py[line:28] INFO ======login========
+2019-06-28 17:29:46,142 loginView.py[line:29] INFO input usernameyinerer
+2019-06-28 17:29:47,955 loginView.py[line:32] INFO input passwordyin123456
+2019-06-28 17:29:48,493 loginView.py[line:35] INFO click loginBtn
+2019-06-28 17:29:49,031 loginView.py[line:37] INFO ========login finished=========
+2019-06-28 17:29:49,031 loginView.py[line:57] INFO ==========check_loginStatus===========
+2019-06-28 17:29:49,031 common_func.py[line:67] INFO =======check_market_ad=============
+2019-06-28 17:29:57,261 loginView.py[line:40] INFO ====check_account_alert======
+2019-06-28 17:30:22,966 loginView.py[line:66] INFO login failed
+2019-06-28 17:30:22,966 common_func.py[line:62] INFO get screenshot
+2019-06-28 17:30:23,189 myunit.py[line:14] INFO ======tearDown=====

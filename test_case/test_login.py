@@ -1,12 +1,8 @@
 import unittest
-
 from businessView.loginView import LoginView
 from common.myunit import StartEnd
-
 class LoginTest(StartEnd):
-    print("开始加载csv")
     csv_file="../data/kybaccount.csv"
-    print("开始执行用例")
     def test_login_test1(self):
         l=LoginView(self.driver)
         data=l.get_csv_data(self.csv_file,1)

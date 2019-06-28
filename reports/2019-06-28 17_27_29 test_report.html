@@ -1,0 +1,44 @@
+
+Running tests... 
+----------------------------------------------------------------------
+ test_login_test1 (test_login.LoginTest) ... OK (48.019717)s
+ test_login_test2 (test_login.LoginTest) ... ERROR (65.982739)s
+ test_login_test3 (test_login.LoginTest) ... FAIL (65.390649)s
+
+======================================================================
+ERROR [65.982739s]: test_login.LoginTest.test_login_test2
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\top\PycharmProjects\kyb_appium\test_case\test_login.py", line 16, in test_login_test2
+    self.assertTrue(l.check_loginStatus())
+  File "C:\Users\top\PycharmProjects\kyb_appium\businessView\loginView.py", line 63, in check_loginStatus
+    self.driver.find_element(*self.myBtn).click()
+  File "D:\Program\Python37\lib\site-packages\appium\webdriver\webdriver.py", line 272, in find_element
+    'value': value})['value']
+  File "D:\Program\Python37\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Program\Python37\lib\site-packages\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+  File "D:\Program\Python37\lib\site-packages\appium\webdriver\errorhandler.py", line 24, in check_response
+    super(MobileErrorHandler, self).check_response(response)
+  File "D:\Program\Python37\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+
+
+======================================================================
+FAIL [65.390649s]: test_login.LoginTest.test_login_test3
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\top\PycharmProjects\kyb_appium\test_case\test_login.py", line 22, in test_login_test3
+    self.assertTrue(l.check_loginStatus())
+AssertionError: False is not true
+
+----------------------------------------------------------------------
+Ran 3 tests in 0:02:59
+
+FAILED
+ (Failures=1, Errors=1)
+
+Generating HTML reports... 
+reports\TestResults_test_login.LoginTest_2019-06-28_17-27-29.html
