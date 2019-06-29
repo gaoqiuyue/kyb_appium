@@ -20,8 +20,8 @@ def appium_desired():
     desired_caps['noReset']=data['noReset']
     desired_caps['appPackage']=data['appPackage']
     desired_caps['appActivity']=data['appActivity']
-    #desired_caps['unicodeKeyboard'] = data['unicodeKeyboard']
-    #desired_caps['resetKeyboard'] = data['resetKeyboard']
+    desired_caps['unicodeKeyboard'] = data['unicodeKeyboard']
+    desired_caps['resetKeyboard'] = data['resetKeyboard']
     desired_caps['automationName'] = data['automationName']
     logging.info("start app....")
     driver = webdriver.Remote('http://'+str(data['ip'])+':'+str(data['port'])+'/wd/hub', desired_caps)
