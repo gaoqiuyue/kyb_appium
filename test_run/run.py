@@ -4,9 +4,8 @@ import time,logging
 import sys
 from BSTestRunner import BSTestRunner
 
-# path='D:\\kyb_testProject\\'
-# sys.path.append(path)
-from openpyxl.compat import file
+path=r'C:\Users\Henry\PycharmProjects\kyb_appium'
+sys.path.append(path)
 
 test_dir='../test_case'
 report_dir='../reports'

@@ -1,0 +1,107 @@
+[35m[Appium][39m Welcome to Appium v1.13.0
+[35m[Appium][39m Non-default server args:
+[35m[Appium][39m   address: 127.0.0.1-p4723-bp4724
+[35m[HTTP][39m Could not start REST http interface listener. The requested port may already be in use. Please make sure there is no other instance of this server running already.
+Fatal Error: getaddrinfo ENOTFOUND 127.0.0.1-p4723-bp4724
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)
+
+C:\Users\Henry\PycharmProjects\kyb_appium\appium_sync>usage: C:\Users\Henry\AppData\Roaming\npm\node_modules\appium\build\lib\main.js
+       [-h] [-v] [--shell] [--allow-cors] [--reboot] [--ipa IPA] [-a ADDRESS]
+       [-p PORT] [-ca CALLBACKADDRESS] [-cp CALLBACKPORT] [-bp BOOTSTRAPPORT]
+       [-r BACKENDRETRIES] [--session-override] [-l] [-g LOGFILE]
+       [--log-level {info,info:debug,info:info,info:warn,info:error,warn,warn:debug,warn:info,warn:warn,warn:error,error,error:debug,error:info,error:warn,error:error,debug,debug:debug,debug:info,debug:warn,debug:error}]
+       [--log-timestamp] [--local-timezone] [--log-no-colors] [-G WEBHOOK]
+       [--safari] [--default-device] [--force-iphone] [--force-ipad]
+       [--tracetemplate AUTOMATIONTRACETEMPLATEPATH]
+       [--instruments INSTRUMENTSPATH] [--nodeconfig NODECONFIG]
+       [-ra ROBOTADDRESS] [-rp ROBOTPORT] [--selendroid-port SELENDROIDPORT]
+       [--chromedriver-port CHROMEDRIVERPORT]
+       [--chromedriver-executable CHROMEDRIVEREXECUTABLE] [--show-config]
+       [--no-perms-check] [--strict-caps] [--isolate-sim-device]
+       [--tmp TMPDIR] [--trace-dir TRACEDIR] [--debug-log-spacing]
+       [--suppress-adb-kill-server] [--long-stacktrace]
+       [--webkit-debug-proxy-port WEBKITDEBUGPROXYPORT]
+       [--webdriveragent-port WDALOCALPORT] [-dc DEFAULTCAPABILITIES]
+       [--enable-heapdump] [--relaxed-security]
+       [--command-timeout DEFAULTCOMMANDTIMEOUT] [-k]
+       [--platform-name PLATFORMNAME] [--platform-version PLATFORMVERSION]
+       [--automation-name AUTOMATIONNAME] [--device-name DEVICENAME]
+       [--browser-name BROWSERNAME] [--app APP] [-lt LAUNCHTIMEOUT]
+       [--language LANGUAGE] [--locale LOCALE] [-U UDID]
+       [--orientation ORIENTATION] [--no-reset] [--full-reset]
+       [--app-pkg APPPACKAGE] [--app-activity APPACTIVITY]
+       [--app-wait-package APPWAITPACKAGE]
+       [--app-wait-activity APPWAITACTIVITY]
+       [--device-ready-timeout DEVICEREADYTIMEOUT]
+       [--android-coverage ANDROIDCOVERAGE] [--avd AVD] [--avd-args AVDARGS]
+       [--use-keystore] [--keystore-path KEYSTOREPATH]
+       [--keystore-password KEYSTOREPASSWORD] [--key-alias KEYALIAS]
+       [--key-password KEYPASSWORD] [--intent-action INTENTACTION]
+       [--intent-category INTENTCATEGORY] [--intent-flags INTENTFLAGS]
+       [--intent-args OPTIONALINTENTARGUMENTS] [--dont-stop-app-on-reset]
+       [--calendar-format CALENDARFORMAT] [--native-instruments-lib]
+       [--keep-keychains] [--localizable-strings-dir LOCALIZABLESTRINGSDIR]
+       [--show-ios-log] [--async-trace]
+       
+C:\Users\Henry\AppData\Roaming\npm\node_modules\appium\build\lib\main.js: error: Unrecognized arguments: 4723-bp 4724.
+
+C:\Users\Henry\PycharmProjects\kyb_appium\appium_sync>usage: C:\Users\Henry\AppData\Roaming\npm\node_modules\appium\build\lib\main.js
+       [-h] [-v] [--shell] [--allow-cors] [--reboot] [--ipa IPA] [-a ADDRESS]
+       [-p PORT] [-ca CALLBACKADDRESS] [-cp CALLBACKPORT] [-bp BOOTSTRAPPORT]
+       [-r BACKENDRETRIES] [--session-override] [-l] [-g LOGFILE]
+       [--log-level {info,info:debug,info:info,info:warn,info:error,warn,warn:debug,warn:info,warn:warn,warn:error,error,error:debug,error:info,error:warn,error:error,debug,debug:debug,debug:info,debug:warn,debug:error}]
+       [--log-timestamp] [--local-timezone] [--log-no-colors] [-G WEBHOOK]
+       [--safari] [--default-device] [--force-iphone] [--force-ipad]
+       [--tracetemplate AUTOMATIONTRACETEMPLATEPATH]
+       [--instruments INSTRUMENTSPATH] [--nodeconfig NODECONFIG]
+       [-ra ROBOTADDRESS] [-rp ROBOTPORT] [--selendroid-port SELENDROIDPORT]
+       [--chromedriver-port CHROMEDRIVERPORT]
+       [--chromedriver-executable CHROMEDRIVEREXECUTABLE] [--show-config]
+       [--no-perms-check] [--strict-caps] [--isolate-sim-device]
+       [--tmp TMPDIR] [--trace-dir TRACEDIR] [--debug-log-spacing]
+       [--suppress-adb-kill-server] [--long-stacktrace]
+       [--webkit-debug-proxy-port WEBKITDEBUGPROXYPORT]
+       [--webdriveragent-port WDALOCALPORT] [-dc DEFAULTCAPABILITIES]
+       [--enable-heapdump] [--relaxed-security]
+       [--command-timeout DEFAULTCOMMANDTIMEOUT] [-k]
+       [--platform-name PLATFORMNAME] [--platform-version PLATFORMVERSION]
+       [--automation-name AUTOMATIONNAME] [--device-name DEVICENAME]
+       [--browser-name BROWSERNAME] [--app APP] [-lt LAUNCHTIMEOUT]
+       [--language LANGUAGE] [--locale LOCALE] [-U UDID]
+       [--orientation ORIENTATION] [--no-reset] [--full-reset]
+       [--app-pkg APPPACKAGE] [--app-activity APPACTIVITY]
+       [--app-wait-package APPWAITPACKAGE]
+       [--app-wait-activity APPWAITACTIVITY]
+       [--device-ready-timeout DEVICEREADYTIMEOUT]
+       [--android-coverage ANDROIDCOVERAGE] [--avd AVD] [--avd-args AVDARGS]
+       [--use-keystore] [--keystore-path KEYSTOREPATH]
+       [--keystore-password KEYSTOREPASSWORD] [--key-alias KEYALIAS]
+       [--key-password KEYPASSWORD] [--intent-action INTENTACTION]
+       [--intent-category INTENTCATEGORY] [--intent-flags INTENTFLAGS]
+       [--intent-args OPTIONALINTENTARGUMENTS] [--dont-stop-app-on-reset]
+       [--calendar-format CALENDARFORMAT] [--native-instruments-lib]
+       [--keep-keychains] [--localizable-strings-dir LOCALIZABLESTRINGSDIR]
+       [--show-ios-log] [--async-trace]
+       
+C:\Users\Henry\AppData\Roaming\npm\node_modules\appium\build\lib\main.js: error: Unrecognized arguments: 4723.
+
+C:\Users\Henry\PycharmProjects\kyb_appium\appium_sync>[35m[Appium][39m Welcome to Appium v1.13.0
+[35m[Appium][39m Non-default server args:
+[35m[Appium][39m   address: 127.0.0.1
+[35m[Appium][39m Appium REST http interface listener started on 127.0.0.1:4723
+
+C:\Users\Henry\PycharmProjects\kyb_appium\appium_sync>[35m[Appium][39m Welcome to Appium v1.13.0
+[35m[Appium][39m Non-default server args:
+[35m[Appium][39m   address: 127.0.0.1
+[35m[Appium][39m Appium REST http interface listener started on 127.0.0.1:4723
+
+C:\Users\Henry\PycharmProjects\kyb_appium\appium_sync>um][39m Non-default server args:
+[35m[Appium][39m   address: 127.0.0.1
+[35m[HTTP][39m Could not start REST http interface listener. The requested port may already be in use. Please make sure there is no other instance of this server running already.
+Fatal Error: listen EADDRINUSE: address already in use 127.0.0.1:4723
+    at Server.setupListenHandle [as _listen2] (net.js:1279:14)
+    at listenInCluster (net.js:1327:12)
+    at doListen (net.js:1460:7)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+
+C:\Users\Henry\PycharmProjects\kyb_appium\appium_sync>
