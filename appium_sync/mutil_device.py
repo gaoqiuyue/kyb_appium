@@ -5,6 +5,9 @@ from appium import webdriver
 import  logging
 import logging.config
 import os
+
+from appium_sync.kybtest import KybTest
+
 CON_LOG="../config/log.conf"
 logging.config.fileConfig(CON_LOG)
 logging=logging.getLogger()
@@ -30,6 +33,9 @@ def appium_desired(udid,port):
     print('appium port: %s start run %s at %s' % (port, udid, ctime()))
     driver = webdriver.Remote('http://'+str(data['ip'])+':'+str(data['port'])+'/wd/hub', desired_caps)
     driver.implicitly_wait(8)
+    k=KybTest(driver)
+    k.skip_update_guide()
+    ##执行考研帮跳过升级操作
     return driver
 
 if __name__ == '__main__':
