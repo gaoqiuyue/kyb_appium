@@ -8,7 +8,7 @@ logging.config.fileConfig(CON_LOG)
 logging=logging.getLogger()
 def appium_desired():
     with open("../config/kyb_caps.yaml",'r',encoding='utf-8')as fp:
-        data=yaml.load(fp)
+        data=yaml.safe_load(fp)
     desired_caps={}
     desired_caps['platformName']=data['platformName']
     desired_caps['platformVersion']=data['platformVersion']
