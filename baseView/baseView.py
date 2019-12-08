@@ -20,6 +20,14 @@ class BaseView(object):
             return self.driver.find_element(*locator)
     def find_element(self,*loc):
         return self.find_element(*loc)
+    def find_element_and_click(self,*loc):
+        print("click")
+        try:
+            # 如果click也有异常，可以这样处理
+            self.find_element(*loc).click()
+        except:
+            self.handle_exception()
+            self.find_element(*loc).click()
     def get_window_size(self):
         return self.driver.get_window_size()
     def swipe(self,start_x,start_y,end_x,end_y,duration):
@@ -40,7 +48,6 @@ class BaseView(object):
                 print("%s not found" % str(locator))
 
             # todo: 私用page source会更快的定位
-
             # page_source=self.driver.page_source
             # if "image_cancel" in page_source:
             #     self.driver.find_element(*locator).click()
